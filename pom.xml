@@ -7,6 +7,10 @@
         <module>console-framework-common</module>
         <module>console-framework-model</module>
         <module>console-service-api</module>
+        <module>console-govern-center</module>
+        <module>console-service-ucenter</module>
+        <module>console-service-ucenter-auth</module>
+        <module>console-govern-gateway</module>
     </modules>
 
     <parent>
